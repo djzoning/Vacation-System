@@ -1,0 +1,7 @@
+# name of the app
+name: Local ColdBox
+
+# List of domains to be added to the Host machine's and VM's "hosts" file
+hosts:
+- vacation.local
+- vacation.44km.local
